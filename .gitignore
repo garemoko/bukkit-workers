@@ -32,3 +32,8 @@
 
 # More temporary files
 *~
+/LICENSE_GSON
+/UNLICENSE
+/readme.md
+/jar
+/jar.jardesc
